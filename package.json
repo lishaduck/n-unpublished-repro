@@ -1,0 +1,16 @@
+{
+  "name": "n-unpublished-repro",
+  "license": "CC0-1.0",
+  "type": "module",
+  "packageManager": "pnpm@10.26.0",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-plugin-n": "^17.23.1"
+  }
+}
